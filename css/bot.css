@@ -1,0 +1,13 @@
+/* Play against the computer: the cover's third door and the level dialog. */
+.coverBot{display:grid;gap:2px;justify-items:center;align-content:center;width:100%;min-height:58px;margin:0;padding:.55em 1.2em;border-radius:10px;cursor:pointer;font:700 1.05rem var(--font);color:#f6ecd2;background:transparent;border:1.5px solid #f6ecd266;transition:transform .15s ease,background .15s ease;animation:fadeIn .5s ease .95s backwards}
+.coverBot .cbT{letter-spacing:.2em;padding-inline-start:.2em;line-height:1.2}
+.coverBot small{font-size:.8rem;font-weight:400;letter-spacing:0;opacity:.85}
+.coverBot:hover{background:#f6ecd214;transform:translateY(-1px)}
+.coverBot:active{transform:none}
+.coverBot:focus-visible{outline:2px solid #f6ecd2;outline-offset:3px}
+.coverBot[hidden]{display:none}
+@media(max-height:560px){.coverBot{min-height:50px}}
+@media(prefers-reduced-motion:reduce){.coverBot{animation:none}}
+#blv .blf{display:flex;flex-direction:column;gap:8px}
+#blv .blm{min-height:1.4em;margin:10px 0 0;font-size:.9rem;opacity:.9}
+#blv form{display:flex}

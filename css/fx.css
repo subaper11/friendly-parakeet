@@ -1,0 +1,23 @@
+/* ===== Graphics level (Settings > More options > Graphics) =====
+   <html data-fx="low | mid | high">, a device preference set in js/prefs.js (stored on this device only).
+   LOW  is the base game and the default for everyone: no live blur anywhere and no animation that repaints (no box-shadow glow loops).
+   MID  adds the soft blurred backdrop behind the big overlays (pause, "who starts?", Tahkim) and the glowing pulses.
+   HIGH adds everything: blur behind floating panels, dialogues and tools, the dimming filter on the board during Tahkim, the first-draw bob.
+   The original effects stay where they are written (style.css, overlay.css, firstdraw.css, tahkim.css, float.css); this file only switches them off,
+   so "high" is exactly the game as it looked before the setting existed. Without the attribute the rules below treat the page as LOW. */
+
+/* ---- not HIGH (low and mid): nothing that blurs live content behind a floating panel ---- */
+html:not([data-fx="high"]) #dlg:not(.dlgModal),
+html:not([data-fx="high"])[data-floating="true"] body #tools,
+html:not([data-fx="high"])[data-floating="true"] body :is(.boardWrap,.ctrls){-webkit-backdrop-filter:none;backdrop-filter:none}
+html:not([data-fx="high"]) #dlg:not(.dlgModal){background:color-mix(in srgb,var(--dialog-bg) 97%,transparent)}          /* 92% -> 97%: legible without the blur */
+html:not([data-fx="high"])[data-floating="true"] body #tools{background:color-mix(in srgb,var(--bg-page-2) 99%,transparent)}
+html:not([data-fx="high"])[data-floating="true"] body .ctrls{background:color-mix(in srgb,var(--panel-bg) 92%,transparent)}   /* 78% -> 92% (the board module itself keeps its own "no panel" rule) */
+html:not([data-fx="high"])[data-tahkim] :is(.board,.rack){filter:none}
+html:not([data-fx="high"]) .fdTile.ready,html:not([data-fx="high"]) .fdTile.ready::before{animation:none}
+
+/* ---- LOW only: no blur on the big overlays either (pause, who starts, Tahkim), and no looping glow ---- */
+html:not([data-fx="mid"]):not([data-fx="high"]) :is(.mOv,.fdOv){-webkit-backdrop-filter:none;backdrop-filter:none;background:color-mix(in srgb,var(--backdrop,#000) 90%,transparent)}   /* 78% -> 90% */
+html:not([data-fx="mid"]):not([data-fx="high"]) .tkBackdrop{-webkit-backdrop-filter:none;backdrop-filter:none;opacity:.84}   /* 0.72 -> 0.84: dims enough without the blur */
+html:not([data-fx="mid"]):not([data-fx="high"]) .mOv[data-tone=pause] .mOvIc{animation:none}
+html:not([data-fx="mid"]):not([data-fx="high"]) .tile.pick{animation:none!important;box-shadow:0 0 0 3px var(--tile-pick-blink),0 6px 10px #000a}   /* the held tile keeps a steady ring instead of a pulsing glow (!important: it also beats the reduced-motion rule that keeps the pulse as touch feedback; the steady ring is that feedback) */
