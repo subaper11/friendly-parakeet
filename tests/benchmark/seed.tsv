@@ -1,0 +1,500 @@
+word	expected	reason	category	scope	source	review
+كتاب	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+قلم	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+باب	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+مدرسة	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+بيت	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+ولد	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+بنت	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+رجل	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+امرأة	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+شمس	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+قمر	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+نجم	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+سماء	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+أرض	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+ماء	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+نار	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+هواء	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+شجرة	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+زهرة	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+حديقة	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+مدينة	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+قرية	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+طريق	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+سيارة	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+طائرة	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+قطار	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+مكتب	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+دفتر	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+طالب	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+معلم	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+طبيب	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+مهندس	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+عامل	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+فلاح	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+تاجر	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+سوق	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+مسجد	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+مستشفى	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+مطعم	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+مخبز	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+حليب	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+خبز	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+لحم	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+سمك	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+تفاح	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+موز	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+برتقال	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+عنب	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+تمر	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+أسد	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+فيل	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+حصان	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+جمل	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+قطة	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+كلب	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+عصفور	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+سمكة	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+نهر	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+بحر	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+جبل	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+صحراء	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+وادي	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+يوم	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+ليل	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+نهار	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+صباح	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+مساء	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+أسبوع	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+شهر	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+سنة	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+وقت	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+ساعة	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+دقيقة	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+لغة	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+كلمة	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+جملة	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+حرف	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+صوت	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+فكرة	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+سؤال	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+جواب	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+علم	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+عمل	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+مال	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+حياة	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+موت	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+صحة	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+مرض	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+فرح	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+حزن	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+حب	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+صديق	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+عدو	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+جار	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+ضيف	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+أب	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+أم	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+أخ	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+أخت	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+جد	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+جدة	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+عم	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+خال	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+زوج	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+زوجة	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+كبير	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+صغير	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+طويل	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+قصير	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+جميل	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+قبيح	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+جديد	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+قديم	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+سريع	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+بطيء	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+قوي	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+ضعيف	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+سهل	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+صعب	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+بارد	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+حار	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+أحمر	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+أزرق	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+أخضر	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+أصفر	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+أبيض	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+أسود	valid	common word	basic-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+من	valid	particle / pronoun	particles	all	authored by Claude (development seed)	PENDING specialist review
+إلى	valid	particle / pronoun	particles	all	authored by Claude (development seed)	PENDING specialist review
+في	valid	particle / pronoun	particles	all	authored by Claude (development seed)	PENDING specialist review
+على	valid	particle / pronoun	particles	all	authored by Claude (development seed)	PENDING specialist review
+عن	valid	particle / pronoun	particles	all	authored by Claude (development seed)	PENDING specialist review
+مع	valid	particle / pronoun	particles	all	authored by Claude (development seed)	PENDING specialist review
+هل	valid	particle / pronoun	particles	all	authored by Claude (development seed)	PENDING specialist review
+لم	valid	particle / pronoun	particles	all	authored by Claude (development seed)	PENDING specialist review
+لن	valid	particle / pronoun	particles	all	authored by Claude (development seed)	PENDING specialist review
+قد	valid	particle / pronoun	particles	all	authored by Claude (development seed)	PENDING specialist review
+إن	valid	particle / pronoun	particles	all	authored by Claude (development seed)	PENDING specialist review
+أن	valid	particle / pronoun	particles	all	authored by Claude (development seed)	PENDING specialist review
+لكن	valid	particle / pronoun	particles	all	authored by Claude (development seed)	PENDING specialist review
+ثم	valid	particle / pronoun	particles	all	authored by Claude (development seed)	PENDING specialist review
+أو	valid	particle / pronoun	particles	all	authored by Claude (development seed)	PENDING specialist review
+أم	valid	particle / pronoun	particles	all	authored by Claude (development seed)	PENDING specialist review
+إذا	valid	particle / pronoun	particles	all	authored by Claude (development seed)	PENDING specialist review
+حتى	valid	particle / pronoun	particles	all	authored by Claude (development seed)	PENDING specialist review
+بل	valid	particle / pronoun	particles	all	authored by Claude (development seed)	PENDING specialist review
+كل	valid	particle / pronoun	particles	all	authored by Claude (development seed)	PENDING specialist review
+بعض	valid	particle / pronoun	particles	all	authored by Claude (development seed)	PENDING specialist review
+غير	valid	particle / pronoun	particles	all	authored by Claude (development seed)	PENDING specialist review
+سوى	valid	particle / pronoun	particles	all	authored by Claude (development seed)	PENDING specialist review
+إلا	valid	particle / pronoun	particles	all	authored by Claude (development seed)	PENDING specialist review
+أين	valid	particle / pronoun	particles	all	authored by Claude (development seed)	PENDING specialist review
+متى	valid	particle / pronoun	particles	all	authored by Claude (development seed)	PENDING specialist review
+كيف	valid	particle / pronoun	particles	all	authored by Claude (development seed)	PENDING specialist review
+لماذا	valid	particle / pronoun	particles	all	authored by Claude (development seed)	PENDING specialist review
+ماذا	valid	particle / pronoun	particles	all	authored by Claude (development seed)	PENDING specialist review
+هنا	valid	particle / pronoun	particles	all	authored by Claude (development seed)	PENDING specialist review
+هناك	valid	particle / pronoun	particles	all	authored by Claude (development seed)	PENDING specialist review
+هذا	valid	particle / pronoun	particles	all	authored by Claude (development seed)	PENDING specialist review
+هذه	valid	particle / pronoun	particles	all	authored by Claude (development seed)	PENDING specialist review
+ذلك	valid	particle / pronoun	particles	all	authored by Claude (development seed)	PENDING specialist review
+تلك	valid	particle / pronoun	particles	all	authored by Claude (development seed)	PENDING specialist review
+الذي	valid	particle / pronoun	particles	all	authored by Claude (development seed)	PENDING specialist review
+التي	valid	particle / pronoun	particles	all	authored by Claude (development seed)	PENDING specialist review
+كتابان	valid	dual / plural / feminine / definite	nominal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+معلمان	valid	dual / plural / feminine / definite	nominal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+مدرستان	valid	dual / plural / feminine / definite	nominal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+طالبتان	valid	dual / plural / feminine / definite	nominal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+معلمون	valid	dual / plural / feminine / definite	nominal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+معلمين	valid	dual / plural / feminine / definite	nominal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+طالبات	valid	dual / plural / feminine / definite	nominal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+معلمات	valid	dual / plural / feminine / definite	nominal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+مدرسات	valid	dual / plural / feminine / definite	nominal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+كتب	valid	dual / plural / feminine / definite	nominal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+رجال	valid	dual / plural / feminine / definite	nominal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+نساء	valid	dual / plural / feminine / definite	nominal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+أولاد	valid	dual / plural / feminine / definite	nominal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+بيوت	valid	dual / plural / feminine / definite	nominal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+مدارس	valid	dual / plural / feminine / definite	nominal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+مساجد	valid	dual / plural / feminine / definite	nominal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+مكاتب	valid	dual / plural / feminine / definite	nominal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+أقلام	valid	dual / plural / feminine / definite	nominal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+أبواب	valid	dual / plural / feminine / definite	nominal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+أيام	valid	dual / plural / feminine / definite	nominal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+أشجار	valid	dual / plural / feminine / definite	nominal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+أنهار	valid	dual / plural / feminine / definite	nominal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+جبال	valid	dual / plural / feminine / definite	nominal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+بحار	valid	dual / plural / feminine / definite	nominal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+طلاب	valid	dual / plural / feminine / definite	nominal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+علماء	valid	dual / plural / feminine / definite	nominal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+أصدقاء	valid	dual / plural / feminine / definite	nominal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+أطباء	valid	dual / plural / feminine / definite	nominal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+ملوك	valid	dual / plural / feminine / definite	nominal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+قلوب	valid	dual / plural / feminine / definite	nominal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+عيون	valid	dual / plural / feminine / definite	nominal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+المدرسة	valid	dual / plural / feminine / definite	nominal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+الكتاب	valid	dual / plural / feminine / definite	nominal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+الطالبات	valid	dual / plural / feminine / definite	nominal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+المعلمون	valid	dual / plural / feminine / definite	nominal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+كتب	valid	verb conjugation	verbal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+يكتب	valid	verb conjugation	verbal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+اكتب	valid	verb conjugation	verbal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+كتبوا	valid	verb conjugation	verbal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+يكتبون	valid	verb conjugation	verbal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+كتبت	valid	verb conjugation	verbal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+تكتب	valid	verb conjugation	verbal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+كتبنا	valid	verb conjugation	verbal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+نكتب	valid	verb conjugation	verbal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+كتبتم	valid	verb conjugation	verbal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+تكتبون	valid	verb conjugation	verbal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+ذهب	valid	verb conjugation	verbal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+يذهب	valid	verb conjugation	verbal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+اذهب	valid	verb conjugation	verbal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+ذهبوا	valid	verb conjugation	verbal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+يذهبون	valid	verb conjugation	verbal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+درس	valid	verb conjugation	verbal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+يدرس	valid	verb conjugation	verbal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+ادرس	valid	verb conjugation	verbal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+درست	valid	verb conjugation	verbal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+تدرس	valid	verb conjugation	verbal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+يدرسون	valid	verb conjugation	verbal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+فتح	valid	verb conjugation	verbal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+يفتح	valid	verb conjugation	verbal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+افتح	valid	verb conjugation	verbal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+أكل	valid	verb conjugation	verbal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+يأكل	valid	verb conjugation	verbal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+كل	valid	verb conjugation	verbal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+أكلوا	valid	verb conjugation	verbal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+يأكلون	valid	verb conjugation	verbal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+أخذ	valid	verb conjugation	verbal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+يأخذ	valid	verb conjugation	verbal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+خذ	valid	verb conjugation	verbal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+أخذوا	valid	verb conjugation	verbal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+قرأ	valid	verb conjugation	verbal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+يقرأ	valid	verb conjugation	verbal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+اقرأ	valid	verb conjugation	verbal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+سأل	valid	verb conjugation	verbal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+يسأل	valid	verb conjugation	verbal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+اسأل	valid	verb conjugation	verbal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+ذهبنا	valid	verb conjugation	verbal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+كتبنا	valid	verb conjugation	verbal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+شربنا	valid	verb conjugation	verbal-morphology	all	authored by Claude (development seed)	PENDING specialist review
+قال	valid	weak verb forms	weak-verbs	all	authored by Claude (development seed)	PENDING specialist review
+يقول	valid	weak verb forms	weak-verbs	all	authored by Claude (development seed)	PENDING specialist review
+قل	valid	weak verb forms	weak-verbs	all	authored by Claude (development seed)	PENDING specialist review
+قالوا	valid	weak verb forms	weak-verbs	all	authored by Claude (development seed)	PENDING specialist review
+باع	valid	weak verb forms	weak-verbs	all	authored by Claude (development seed)	PENDING specialist review
+يبيع	valid	weak verb forms	weak-verbs	all	authored by Claude (development seed)	PENDING specialist review
+بع	valid	weak verb forms	weak-verbs	all	authored by Claude (development seed)	PENDING specialist review
+باعوا	valid	weak verb forms	weak-verbs	all	authored by Claude (development seed)	PENDING specialist review
+دعا	valid	weak verb forms	weak-verbs	all	authored by Claude (development seed)	PENDING specialist review
+يدعو	valid	weak verb forms	weak-verbs	all	authored by Claude (development seed)	PENDING specialist review
+ادع	valid	weak verb forms	weak-verbs	all	authored by Claude (development seed)	PENDING specialist review
+دعوا	valid	weak verb forms	weak-verbs	all	authored by Claude (development seed)	PENDING specialist review
+رمى	valid	weak verb forms	weak-verbs	all	authored by Claude (development seed)	PENDING specialist review
+يرمي	valid	weak verb forms	weak-verbs	all	authored by Claude (development seed)	PENDING specialist review
+ارم	valid	weak verb forms	weak-verbs	all	authored by Claude (development seed)	PENDING specialist review
+رموا	valid	weak verb forms	weak-verbs	all	authored by Claude (development seed)	PENDING specialist review
+مشى	valid	weak verb forms	weak-verbs	all	authored by Claude (development seed)	PENDING specialist review
+يمشي	valid	weak verb forms	weak-verbs	all	authored by Claude (development seed)	PENDING specialist review
+امش	valid	weak verb forms	weak-verbs	all	authored by Claude (development seed)	PENDING specialist review
+مشوا	valid	weak verb forms	weak-verbs	all	authored by Claude (development seed)	PENDING specialist review
+وقف	valid	weak verb forms	weak-verbs	all	authored by Claude (development seed)	PENDING specialist review
+يقف	valid	weak verb forms	weak-verbs	all	authored by Claude (development seed)	PENDING specialist review
+قف	valid	weak verb forms	weak-verbs	all	authored by Claude (development seed)	PENDING specialist review
+وصل	valid	weak verb forms	weak-verbs	all	authored by Claude (development seed)	PENDING specialist review
+يصل	valid	weak verb forms	weak-verbs	all	authored by Claude (development seed)	PENDING specialist review
+صل	valid	weak verb forms	weak-verbs	all	authored by Claude (development seed)	PENDING specialist review
+أكل	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+آكل	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+يأكل	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+مأكول	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+تأكيد	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+مسؤول	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+سؤال	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+مسؤولية	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+قراءة	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+أبناء	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+أصدقاء	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+أحاديث	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+آمن	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+آخر	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+آية	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+آثار	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+إنسان	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+إسلام	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+إيمان	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+إلى	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+إذا	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+أول	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+أرض	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+أهل	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+أمر	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+أمل	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+أمن	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+أمين	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+أستاذ	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+أسرة	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+أنف	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+أكبر	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+أكثر	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+أفضل	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+أحسن	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+أسئلة	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+مسائل	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+رئيس	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+رأس	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+رأي	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+كأس	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+بأس	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+فأر	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+سأل	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+بدأ	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+قرأ	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+هدأ	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+جزء	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+شيء	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+ماء	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+بطء	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+ملأ	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+شاطئ	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+قارئ	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+لؤلؤ	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+فؤاد	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+مؤمن	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+مؤلف	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+يؤكد	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+رؤية	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+مرآة	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+قرآن	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+الأرض	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+الإنسان	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+الآن	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+لأن	valid	correct hamza spelling	hamza	all	authored by Claude (development seed)	PENDING specialist review
+مالك	valid	legitimate word that merely ends like a pronoun	idhafah-permitted	all	authored by Claude (development seed)	PENDING specialist review
+عربي	valid	legitimate word that merely ends like a pronoun	idhafah-permitted	all	authored by Claude (development seed)	PENDING specialist review
+يومي	valid	legitimate word that merely ends like a pronoun	idhafah-permitted	all	authored by Claude (development seed)	PENDING specialist review
+ديني	valid	legitimate word that merely ends like a pronoun	idhafah-permitted	all	authored by Claude (development seed)	PENDING specialist review
+وطني	valid	legitimate word that merely ends like a pronoun	idhafah-permitted	all	authored by Claude (development seed)	PENDING specialist review
+كرسي	valid	legitimate word that merely ends like a pronoun	idhafah-permitted	all	authored by Claude (development seed)	PENDING specialist review
+قاضي	valid	legitimate word that merely ends like a pronoun	idhafah-permitted	all	authored by Claude (development seed)	PENDING specialist review
+ثاني	valid	legitimate word that merely ends like a pronoun	idhafah-permitted	all	authored by Claude (development seed)	PENDING specialist review
+ماضي	valid	legitimate word that merely ends like a pronoun	idhafah-permitted	all	authored by Claude (development seed)	PENDING specialist review
+مصري	valid	legitimate word that merely ends like a pronoun	idhafah-permitted	all	authored by Claude (development seed)	PENDING specialist review
+عراقي	valid	legitimate word that merely ends like a pronoun	idhafah-permitted	all	authored by Claude (development seed)	PENDING specialist review
+سوري	valid	legitimate word that merely ends like a pronoun	idhafah-permitted	all	authored by Claude (development seed)	PENDING specialist review
+يمني	valid	legitimate word that merely ends like a pronoun	idhafah-permitted	all	authored by Claude (development seed)	PENDING specialist review
+سعودي	valid	legitimate word that merely ends like a pronoun	idhafah-permitted	all	authored by Claude (development seed)	PENDING specialist review
+إسلامي	valid	legitimate word that merely ends like a pronoun	idhafah-permitted	all	authored by Claude (development seed)	PENDING specialist review
+علمي	valid	legitimate word that merely ends like a pronoun	idhafah-permitted	all	authored by Claude (development seed)	PENDING specialist review
+عملي	valid	legitimate word that merely ends like a pronoun	idhafah-permitted	all	authored by Claude (development seed)	PENDING specialist review
+طبي	valid	legitimate word that merely ends like a pronoun	idhafah-permitted	all	authored by Claude (development seed)	PENDING specialist review
+رسمي	valid	legitimate word that merely ends like a pronoun	idhafah-permitted	all	authored by Claude (development seed)	PENDING specialist review
+شمسي	valid	legitimate word that merely ends like a pronoun	idhafah-permitted	all	authored by Claude (development seed)	PENDING specialist review
+قمري	valid	legitimate word that merely ends like a pronoun	idhafah-permitted	all	authored by Claude (development seed)	PENDING specialist review
+أريكة	valid	classical / uncommon MSA	rare-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+سؤدد	valid	classical / uncommon MSA	rare-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+حصيف	valid	classical / uncommon MSA	rare-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+رصين	valid	classical / uncommon MSA	rare-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+وقور	valid	classical / uncommon MSA	rare-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+شهم	valid	classical / uncommon MSA	rare-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+همام	valid	classical / uncommon MSA	rare-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+غيهب	valid	classical / uncommon MSA	rare-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+عجاج	valid	classical / uncommon MSA	rare-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+صهوة	valid	classical / uncommon MSA	rare-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+مهجة	valid	classical / uncommon MSA	rare-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+بهرج	valid	classical / uncommon MSA	rare-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+زخرف	valid	classical / uncommon MSA	rare-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+نمارق	valid	classical / uncommon MSA	rare-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+سرير	valid	classical / uncommon MSA	rare-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+خريف	valid	classical / uncommon MSA	rare-vocabulary	all	authored by Claude (development seed)	PENDING specialist review
+تلفاز	valid	established loanword	loanwords	all	authored by Claude (development seed)	PENDING specialist review
+تلفزيون	valid	established loanword	loanwords	all	authored by Claude (development seed)	PENDING specialist review
+كمبيوتر	valid	established loanword	loanwords	all	authored by Claude (development seed)	PENDING specialist review
+إنترنت	valid	established loanword	loanwords	all	authored by Claude (development seed)	PENDING specialist review
+سينما	valid	established loanword	loanwords	all	authored by Claude (development seed)	PENDING specialist review
+بنك	valid	established loanword	loanwords	all	authored by Claude (development seed)	PENDING specialist review
+شاي	valid	established loanword	loanwords	all	authored by Claude (development seed)	PENDING specialist review
+قهوة	valid	established loanword	loanwords	all	authored by Claude (development seed)	PENDING specialist review
+شاورما	valid	established loanword	loanwords	all	authored by Claude (development seed)	PENDING specialist review
+بيتزا	valid	established loanword	loanwords	all	authored by Claude (development seed)	PENDING specialist review
+كيلو	valid	established loanword	loanwords	all	authored by Claude (development seed)	PENDING specialist review
+متر	valid	established loanword	loanwords	all	authored by Claude (development seed)	PENDING specialist review
+ليتر	valid	established loanword	loanwords	all	authored by Claude (development seed)	PENDING specialist review
+كاميرا	valid	established loanword	loanwords	all	authored by Claude (development seed)	PENDING specialist review
+فيديو	valid	established loanword	loanwords	all	authored by Claude (development seed)	PENDING specialist review
+كتابي	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+كتابك	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+كتابه	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+كتابها	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+كتابهم	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+كتابنا	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+بيتي	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+بيتك	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+بيته	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+بيتها	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+بيتهم	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+بيتنا	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+قلمي	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+قلمك	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+قلمه	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+مدرستي	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+مدرستك	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+مدرستها	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+مدرستهم	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+أخي	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+أختي	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+أبي	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+أمي	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+لي	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+لك	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+له	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+لها	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+لهم	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+به	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+بك	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+بها	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+بهم	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+منه	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+منها	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+منهم	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+فيه	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+فيها	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+فيهم	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+عليه	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+عليها	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+عليهم	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+إليه	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+إليك	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+عنه	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+عنها	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+معه	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+معها	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+لديه	invalid	attached pronoun (idhafah)	idhafah-forbidden	all	authored by Claude (development seed)	PENDING specialist review
+اكل	invalid	wrong hamza / alif seat	hamza-wrong	expanded	authored by Claude (development seed)	PENDING specialist review
+ياكل	invalid	wrong hamza / alif seat	hamza-wrong	expanded	authored by Claude (development seed)	PENDING specialist review
+ماكول	invalid	wrong hamza / alif seat	hamza-wrong	expanded	authored by Claude (development seed)	PENDING specialist review
+تاكيد	invalid	wrong hamza / alif seat	hamza-wrong	expanded	authored by Claude (development seed)	PENDING specialist review
+ارض	invalid	wrong hamza / alif seat	hamza-wrong	expanded	authored by Claude (development seed)	PENDING specialist review
+اهل	invalid	wrong hamza / alif seat	hamza-wrong	expanded	authored by Claude (development seed)	PENDING specialist review
+اول	invalid	wrong hamza / alif seat	hamza-wrong	expanded	authored by Claude (development seed)	PENDING specialist review
+اسئـلة	invalid	wrong hamza / alif seat	hamza-wrong	expanded	authored by Claude (development seed)	PENDING specialist review
+اصدقاء	invalid	wrong hamza / alif seat	hamza-wrong	expanded	authored by Claude (development seed)	PENDING specialist review
+احاديث	invalid	wrong hamza / alif seat	hamza-wrong	expanded	authored by Claude (development seed)	PENDING specialist review
+اسلام	invalid	wrong hamza / alif seat	hamza-wrong	expanded	authored by Claude (development seed)	PENDING specialist review
+انسان	invalid	wrong hamza / alif seat	hamza-wrong	expanded	authored by Claude (development seed)	PENDING specialist review
+ايمان	invalid	wrong hamza / alif seat	hamza-wrong	expanded	authored by Claude (development seed)	PENDING specialist review
+اذا	invalid	wrong hamza / alif seat	hamza-wrong	expanded	authored by Claude (development seed)	PENDING specialist review
+أسلام	invalid	wrong hamza / alif seat	hamza-wrong	expanded	authored by Claude (development seed)	PENDING specialist review
+أنسان	invalid	wrong hamza / alif seat	hamza-wrong	expanded	authored by Claude (development seed)	PENDING specialist review
+إكرم	invalid	wrong hamza / alif seat	hamza-wrong	expanded	authored by Claude (development seed)	PENDING specialist review
+إصدقاء	invalid	wrong hamza / alif seat	hamza-wrong	expanded	authored by Claude (development seed)	PENDING specialist review
+إطفال	invalid	wrong hamza / alif seat	hamza-wrong	expanded	authored by Claude (development seed)	PENDING specialist review
+إكل	invalid	wrong hamza / alif seat	hamza-wrong	expanded	authored by Claude (development seed)	PENDING specialist review
+مسؤل	invalid	wrong hamza / alif seat	hamza-wrong	expanded	authored by Claude (development seed)	PENDING specialist review
+رأيس	invalid	wrong hamza / alif seat	hamza-wrong	expanded	authored by Claude (development seed)	PENDING specialist review
+مسئـل	invalid	wrong hamza / alif seat	hamza-wrong	expanded	authored by Claude (development seed)	PENDING specialist review
+مدرسه	invalid	ه for ة / ي for ى	orthography	expanded	authored by Claude (development seed)	PENDING specialist review
+جريده	invalid	ه for ة / ي for ى	orthography	expanded	authored by Claude (development seed)	PENDING specialist review
+مكتبه	invalid	ه for ة / ي for ى	orthography	expanded	authored by Claude (development seed)	PENDING specialist review
+مستشفي	invalid	ه for ة / ي for ى	orthography	expanded	authored by Claude (development seed)	PENDING specialist review
+ذكري	invalid	ه for ة / ي for ى	orthography	expanded	authored by Claude (development seed)	PENDING specialist review
+مدرةس	invalid	impossible letter sequence	impossible-shape	all	authored by Claude (development seed)	PENDING specialist review
+كتىب	invalid	impossible letter sequence	impossible-shape	all	authored by Claude (development seed)	PENDING specialist review
+ءكل	invalid	impossible letter sequence	impossible-shape	all	authored by Claude (development seed)	PENDING specialist review
+ؤكل	invalid	impossible letter sequence	impossible-shape	all	authored by Claude (development seed)	PENDING specialist review
+أاكل	invalid	impossible letter sequence	impossible-shape	all	authored by Claude (development seed)	PENDING specialist review
+سمآ	invalid	impossible letter sequence	impossible-shape	all	authored by Claude (development seed)	PENDING specialist review
+بإب	invalid	impossible letter sequence	impossible-shape	all	authored by Claude (development seed)	PENDING specialist review
+ئكل	invalid	impossible letter sequence	impossible-shape	all	authored by Claude (development seed)	PENDING specialist review
+أأكل	invalid	impossible letter sequence	impossible-shape	all	authored by Claude (development seed)	PENDING specialist review
+إاكل	invalid	impossible letter sequence	impossible-shape	all	authored by Claude (development seed)	PENDING specialist review
+ضصثق	invalid	fabricated string	negative-corpus	all	authored by Claude (development seed)	PENDING specialist review
+طظغف	invalid	fabricated string	negative-corpus	all	authored by Claude (development seed)	PENDING specialist review
+كتبظ	invalid	fabricated string	negative-corpus	all	authored by Claude (development seed)	PENDING specialist review
+قشعغ	invalid	fabricated string	negative-corpus	all	authored by Claude (development seed)	PENDING specialist review
+خخخخ	invalid	fabricated string	negative-corpus	all	authored by Claude (development seed)	PENDING specialist review
+ببببب	invalid	fabricated string	negative-corpus	all	authored by Claude (development seed)	PENDING specialist review
+مكتبظ	invalid	fabricated string	negative-corpus	all	authored by Claude (development seed)	PENDING specialist review
+ثثثج	invalid	fabricated string	negative-corpus	all	authored by Claude (development seed)	PENDING specialist review
+زصطك	invalid	fabricated string	negative-corpus	all	authored by Claude (development seed)	PENDING specialist review
+بتثجح	invalid	fabricated string	negative-corpus	all	authored by Claude (development seed)	PENDING specialist review
+ذذرر	invalid	fabricated string	negative-corpus	all	authored by Claude (development seed)	PENDING specialist review
+سشصضط	invalid	fabricated string	negative-corpus	all	authored by Claude (development seed)	PENDING specialist review
+عغفقك	invalid	fabricated string	negative-corpus	all	authored by Claude (development seed)	PENDING specialist review
+أضظ	invalid	fabricated string	negative-corpus	all	authored by Claude (development seed)	PENDING specialist review
+أصثغ	invalid	fabricated string	negative-corpus	all	authored by Claude (development seed)	PENDING specialist review
+إضظاب	invalid	fabricated string	negative-corpus	all	authored by Claude (development seed)	PENDING specialist review
+أققق	invalid	fabricated string	negative-corpus	all	authored by Claude (development seed)	PENDING specialist review
+أزصط	invalid	fabricated string	negative-corpus	all	authored by Claude (development seed)	PENDING specialist review
+بغظذ	invalid	fabricated string	negative-corpus	all	authored by Claude (development seed)	PENDING specialist review
+تثخذ	invalid	fabricated string	negative-corpus	all	authored by Claude (development seed)	PENDING specialist review
+ظضصث	invalid	fabricated string	negative-corpus	all	authored by Claude (development seed)	PENDING specialist review
+ككككك	invalid	fabricated string	negative-corpus	all	authored by Claude (development seed)	PENDING specialist review
+لمنهو	invalid	fabricated string	negative-corpus	all	authored by Claude (development seed)	PENDING specialist review
+وييي	invalid	fabricated string	negative-corpus	all	authored by Claude (development seed)	PENDING specialist review
+طزظر	invalid	fabricated string	negative-corpus	all	authored by Claude (development seed)	PENDING specialist review
+ثظخغ	invalid	fabricated string	negative-corpus	all	authored by Claude (development seed)	PENDING specialist review
+جحخع	invalid	fabricated string	negative-corpus	all	authored by Claude (development seed)	PENDING specialist review
